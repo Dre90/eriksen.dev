@@ -1,2 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
 https://suspicious-carson-d360cf.netlify.com/* https://www.eriksen.dev/:splat 301!
+
+https://eriksen.dev/* https://www.eriksen.dev/:splat 301!
+/* /index.html 200

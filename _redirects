@@ -3,3 +3,6 @@ https://suspicious-carson-d360cf.netlify.com/* https://www.eriksen.dev/:splat 30
 
 https://eriksen.dev/* https://www.eriksen.dev/:splat 301!
 /* /index.html 200
+
+https://eriksen.dev* https://www.eriksen.dev/:splat 301!
+/* /index.html 200
